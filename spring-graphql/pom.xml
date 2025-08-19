@@ -29,7 +29,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-//todo deleted
+//todo added
 		// todo
 		<dependency>
 			<groupId>com.mysql</groupId>
